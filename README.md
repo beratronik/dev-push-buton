@@ -1,8 +1,8 @@
-# Arduino İle Mario!
+# Dev Push Button
 
 ![Mario Projesi Thumbnail](img/tb.png)
 
-## Arduino İle Mario!
+## Proje
 3D yazıcı ile yaptığım bu mega buton ile projelerimize eğlence katıyoruz. 🌟
 
 Proje hakkında daha fazla bilgi almak için aşağıdaki videoyu izleyebilirsiniz:
